@@ -1,0 +1,15 @@
+.headerNav{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-evenly;
+    padding: 0;
+    flex: auto;
+    align-items: center;
+    a{
+        color: #fff;
+        text-decoration: none;
+        font-weight: 400;
+        font-size: 16px;
+        text-transform: uppercase;
+    }
+}
